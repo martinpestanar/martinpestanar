@@ -18,13 +18,7 @@ Diseño infraestructuras de automatización e IA con mentalidad de **"Zero Error
 
 ## 🚀 Proyecto Destacado: Nilah IA
 SaaS de automatización integral que utiliza IA para captar, cualificar y agendar leads 24/7 sin intervención humana.
-- **Stack:** n8n + Supabase + LLMs + WhatsApp API.
-
----
-
-## 📈 Estadísticas de GitHub
-![Estadísticas de Martin](https://github-readme-stats.vercel.app/api?username=martinpestanar&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=martinpestanar&layout=compact&theme=tokyonight)
+- **Stack:** n8n + Supabase + LLMs + WhatsApp API + PostgresDB + Python + JavaScript
 
 ---
 
